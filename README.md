@@ -1,4 +1,4 @@
-# albums-app
+# albums
 My first React Native app!
 
 ## Source
